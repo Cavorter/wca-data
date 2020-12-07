@@ -1,0 +1,5 @@
+{
+    "name": "Healing Howl",
+    "cooldown": 4,
+    "description": "Heal all allies for [5(5)]% of their maximum health."
+}

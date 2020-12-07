@@ -1,0 +1,22 @@
+{
+    "name": "Necromantic Intervention",
+    "tutorial": true,
+    "covenant": "Maldraxxus",
+    "minutes": 0.5,
+    "description": "A Threatening Necromancer has joined the fray and is protected by his skeletal minions.",
+    "units": [
+        {
+            "position": [
+                6,
+                7
+            ],
+            "name": "Bony Skelton"
+        },
+        {
+            "position": [
+                10
+            ],
+            "name": "Threatening Necromancer"
+        }
+    ]
+}

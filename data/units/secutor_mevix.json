@@ -1,0 +1,25 @@
+{
+    "name": "Secutor Mevix",
+    "title": "Secutor",
+    "type": "companion",
+    "covenant": "Maldraxxus",
+    "health": {
+        "base" : 385,
+        "increment": 0,
+        "records": {
+            "1": 385,
+            "2": 420
+        }
+    },
+    "attack": {
+        "base" : 44,
+        "increment": 0,
+        "records": {
+            "1": 44,
+            "2": 48
+        }
+    },
+    "abilities": [
+        "Secutor's Judgement"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Threatening Necromancer",
+    "type": "enemy",
+    "health": {
+        "base": 550,
+        "records": {
+            "1": 550
+        }
+    },
+    "attack": {
+        "base": 22,
+        "records": {
+            "1": 22
+        }
+    },
+    "abilities": [
+        "Plague Blast"
+    ]
+}

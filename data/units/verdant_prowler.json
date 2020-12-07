@@ -1,0 +1,21 @@
+{
+    "name": "Verdant Prowler",
+    "type": "enemy",
+    "health": {
+        "base": 0,
+        "records": {
+            "5": 630,
+            "10": 660
+        }
+    },
+    "attack": {
+        "base": 0,
+        "records": {
+            "5": 0,
+            "10": 40
+        }
+    },
+    "abilities": [
+        "Healing Howl"
+    ]
+}

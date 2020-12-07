@@ -1,1 +1,40 @@
-{}
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "https://raw.githubusercontent.com/Cavorter/wca-data/main/schemas/missions.json",
+    "title": "missions",
+    "description": "Validation for Covenant Adventure mission data",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "minutes": {
+            "type": "integer"
+        },
+        "campaign": {
+            "type": "boolean"
+        },
+        "units": {
+            "type":"array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "position": {
+                        "type": "integer",
+                        "minimum": 6,
+                        "maximum": 13
+                    }
+                }
+            },
+            "minItems": 1,
+            "maxItems": 8
+        }
+    },
+    "required": ["name","minutes","units"]
+}

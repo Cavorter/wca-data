@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "friendly": true,
+        "priority": [
+            3,
+            4,
+            2,
+            6,
+            7,
+            5,
+            10,
+            11,
+            8,
+            12,
+            13
+        ]
+    },
+    {
+        "id": 2,
+        "friendly": true,
+        "priority": [
+            1,
+            4,
+            5,
+            3,
+            7,
+            8,
+            9,
+            6,
+            11,
+            12,
+            13,
+            10
+        ]
+    },
+    {
+        "id": 3,
+        "friendly": true,
+        "priority": [
+            6,
+            7,
+            4,
+            1,
+            10,
+            11,
+            8,
+            5,
+            2,
+            12,
+            9,
+            13
+        ]
+    },
+    {
+        "id": 4,
+        "friendly": true,
+        "priority": [
+            3,
+            7,
+            8,
+            5,
+            2,
+            1,
+            6,
+            11,
+            12,
+            9,
+            10,
+            13
+        ]
+    },
+    {
+        "id": 5,
+        "friendly": true,
+        "priority": [
+            4,
+            8,
+            9,
+            2,
+            3,
+            7,
+            12,
+            13,
+            1,
+            6,
+            11,
+            10
+        ]
+    },
+    {
+        "id": 6,
+        "friendly": false,
+        "priority": []
+    },
+    {
+        "id": 7,
+        "friendly": false,
+        "priority": []
+    },
+    {
+        "id": 8,
+        "friendly": false,
+        "priority": []
+    },
+    {
+        "id": 9,
+        "friendly": false,
+        "priority": []
+    },
+    {
+        "id": 10,
+        "friendly": false,
+        "priority": []
+    },
+    {
+        "id": 11,
+        "friendly": false,
+        "priority": []
+    },
+    {
+        "id": 12,
+        "friendly": false,
+        "priority": []
+    },
+    {
+        "id": 13,
+        "friendly": false,
+        "priority": []
+    }
+]

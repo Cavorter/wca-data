@@ -1,0 +1,25 @@
+{
+    "name": "Spinal Swarm",
+    "tutorial": true,
+    "covenant": "Maldraxxus",
+    "minutes": 1,
+    "description": "More skeletons are breaking free in the wake of the accident at the Bone Pits. Break them up.",
+    "units": [
+        {
+            "position": [
+                6,
+                11
+            ],
+            "name": "Swarming Skelton",
+            "record": "swarming_skeleton_small"
+        },
+        {
+            "position": [
+                7,
+                10
+            ],
+            "name": "Swarming Skelton",
+            "record": "swarming_skeleton_large"
+        }
+    ]
+}

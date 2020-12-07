@@ -1,0 +1,38 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "$id": "https://raw.githubusercontent.com/Cavorter/wca-data/main/schemas/positions.json",
+    "title": "positions",
+    "description": "Validation for Covenant Adventure position data",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 13
+            },
+            "friendly": {
+                "type": "boolean"
+            },
+            "priority": {
+                "type": "array",
+                "items": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 13
+                },
+                "uniqueItems": true,
+                "minItems": 12,
+                "maxItems": 12
+            }
+        },
+        "required": [
+            "id",
+            "friendly",
+            "priority"
+        ]
+    },
+    "minItems": 13,
+    "maxItems": 13
+}

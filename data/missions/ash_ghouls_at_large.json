@@ -1,0 +1,25 @@
+{
+    "name": "Ash Ghouls At Large",
+    "minutes": 240,
+    "description": "Ash Ghouls are being driven out of control by the searing pain, attacking anything nearby. Put them down.",
+    "campaign": false,
+    "difficulty": "gray",
+    "units":[
+        {
+            "position": 6,
+            "name": "Ash Ghoul"
+        },
+        {
+            "position": 7,
+            "name": "Ash Ghoul"
+        },
+        {
+            "position": 8,
+            "name": "Ash Ghoul"
+        },
+        {
+            "position": 9,
+            "name": "Ash Ghoul"
+        }
+    ]
+}

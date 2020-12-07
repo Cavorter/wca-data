@@ -1,0 +1,23 @@
+{
+    "name": "Swarming Skeleton",
+    "type": "enemy",
+    "health": {
+        "base": 152,
+        "increment": 0,
+        "records": {
+            "1": 152,
+            "5": 160
+        }
+    },
+    "attack": {
+        "base": 11,
+        "increment": 0,
+        "records": {
+            "1": 11,
+            "5": 15
+        }
+    },
+    "abilities": [
+        "Skeleton Smash"
+    ]
+}

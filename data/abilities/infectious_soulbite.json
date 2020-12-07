@@ -1,0 +1,9 @@
+{
+    "name": "Infectious Soulbite",
+    "description": "Bites the closest enemy, dealing [2*Lvl?,16(8),18(10)] Shadow damage and an additional [1*Lvl?,8(8),9(10)] Shadow damage each round for 4 rounds.",
+    "duration": 4,
+    "damage": {
+        "base": 2,
+        "dot": 1
+    }
+}

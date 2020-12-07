@@ -1,0 +1,17 @@
+{
+    "name": "Alpha Wolf Erezuel",
+    "type": "enemy",
+    "health": {
+        "reports": {
+            "5": 840
+        }
+    },
+    "attack": {
+        "reports": {
+            "5": 0
+        }
+    },
+    "abilities": [
+        "Searing Bite"
+    ]
+}

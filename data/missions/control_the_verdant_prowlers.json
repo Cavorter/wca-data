@@ -1,0 +1,11 @@
+{
+    "name": "Control the Verdant Prowlers",
+    "minutes": 270,
+    "description": "A pack of verdant prowlers have gone wild and are savaging the Garden of Night. Put them down.",
+    "units": [
+        {
+            "position": [7,8,11,12],
+            "name": "Verdant Prowler"
+        }
+    ]
+}

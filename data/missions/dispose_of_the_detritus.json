@@ -1,0 +1,16 @@
+{
+    "name": "Dispose of the Detritus",
+    "tutorial": true,
+    "covenant": "Maldraxxus",
+    "minutes": 0.5,
+    "description": "A small number of skeletons have run amok in the Bone Pits. Disposing of them should be a simple task.",
+    "units": [
+        {
+            "position": [
+                6,
+                7
+            ],
+            "name": "Bony Skeleton"
+        }
+    ]
+}

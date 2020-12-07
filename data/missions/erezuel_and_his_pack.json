@@ -1,0 +1,16 @@
+{
+    "name": "Erezual and His Pack",
+    "minutes": 450,
+    "difficulty": "silver",
+    "description": "Suppressing the Verdant Prowler population has infuriated Erezuel, and he seeks revenge.",
+    "units": [
+        {
+            "position": [6,7,8,9],
+            "name": "Verdant Prowler"
+        },
+        {
+            "position": [12],
+            "name": "Alpha Wolf Erezuel"
+        }
+    ]
+}

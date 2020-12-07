@@ -1,0 +1,22 @@
+{
+    "name": "Catastrophic Skeleton Infestation",
+    "minutes": 240,
+    "description": "The problem has gotten even worse, and rogue Skeletons have run amok in a giant swarm. Snuff them out, and you will have my thanks!",
+    "campaign": false,
+    "difficulty": "gray",
+    "units": [
+        {
+            "position": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "Swarming Skeleton"
+        }
+    ]
+}

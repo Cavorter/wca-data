@@ -1,0 +1,33 @@
+{
+    "name": "Maldraxxus Shock Trooper",
+    "type": "Troop",
+    "title": "Shock Trooper",
+    "covenant": "Maldraxxus",
+    "health": {
+        "base": 220,
+        "increment": 20,
+        "records": {
+            "1": 220,
+            "2": 240,
+            "3": 260,
+            "4": 280,
+            "5": 300,
+            "6": 320
+        }
+    },
+    "attack": {
+        "base": 33,
+        "increment": 3,
+        "records": {
+            "1": 33,
+            "2": 36,
+            "3": 39,
+            "4": 42,
+            "5": 45,
+            "6": 48
+        }
+    },
+    "abilities": [
+        "Bonestorm"
+    ]
+}

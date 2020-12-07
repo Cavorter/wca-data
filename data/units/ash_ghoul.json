@@ -1,0 +1,21 @@
+{
+    "name": "Ash Ghoul",
+    "type": "enemy",
+    "health": {
+        "base": 0,
+        "increment": 0,
+        "records": {
+           "10": 400 
+        }
+    },
+    "attack": {
+        "base": 0,
+        "increment": 0,
+        "records": {
+            "10": 60
+        }
+    },
+    "abilities": [
+        "Infectious Bite"
+    ]
+}

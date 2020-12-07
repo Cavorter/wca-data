@@ -1,0 +1,19 @@
+{
+    "Name": "Bony Skeleton",
+    "type": "enemy",
+    "health": {
+        "base": 303,
+        "records": {
+            "1": 303
+        }
+    },
+    "attack": {
+        "base": 22,
+        "records": {
+            "1": 22
+        }
+    },
+    "abilities": [
+        "Skeleton Smash"
+    ]
+}
