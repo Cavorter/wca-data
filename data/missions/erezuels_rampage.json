@@ -1,6 +1,9 @@
 {
     "name":"Erezuel's Rampage",
-    "description": "",
+    "description": "Erezuel is taking more Miredeer than can be sustained. Stop him again.",
     "campaign": true,
-    "minutes": 240
+    "minutes": 240,
+    "units": [
+        
+    ]
 }
