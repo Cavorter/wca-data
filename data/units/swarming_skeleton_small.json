@@ -1,12 +1,15 @@
 {
     "name": "Swarming Skeleton",
     "type": "enemy",
+    "class": "melee",
     "health": {
         "base": 152,
         "increment": 0,
         "records": {
             "1": 152,
-            "5": 160
+            "4": 158,
+            "5": 160,
+            "8?": 172
         }
     },
     "attack": {
@@ -14,7 +17,9 @@
         "increment": 0,
         "records": {
             "1": 11,
-            "5": 15
+            "4": 0,
+            "5": 15,
+            "8?": 0
         }
     },
     "abilities": [

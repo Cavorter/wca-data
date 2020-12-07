@@ -2,5 +2,22 @@
     "name": "Catch the Anima Smugglers",
     "minutes": 270,
     "description": "A group of anima smugglers are attempting to steal anima rations from the deserving. End them.",
-    "units": []
+    "units": [
+        {
+            "position": [
+                7,
+                8
+            ],
+            "class": "melee",
+            "name": "Anima Smuggler"
+        },
+        {
+            "position": [
+                11,
+                12
+            ],
+            "class": "ranged",
+            "name": "Anima Smuggler"
+        }
+    ]
 }

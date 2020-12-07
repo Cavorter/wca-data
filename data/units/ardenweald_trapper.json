@@ -1,0 +1,19 @@
+{
+    "name": "Ardenweald Trapper",
+    "title": "Trapper",
+    "covenant": "Ardenweald",
+    "type": "troop",
+    "health": {
+        "records": {
+            "8": 540
+        }
+    },
+    "attack": {
+        "records": {
+            "8": 54
+        }
+    },
+    "abilities": [
+        "Bramble Trap"
+    ]
+}

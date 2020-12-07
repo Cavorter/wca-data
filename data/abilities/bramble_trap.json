@@ -1,0 +1,5 @@
+{
+    "name": "Bramble Trap",
+    "cooldown": 6,
+    "description": "Winding tendrils ensnare all enemies, dealing [5(8)] Nature damage and reducing their damage by 20% every other round."
+}

@@ -1,5 +1,5 @@
 {
     "name": "Plague Song",
     "cooldown": 5,
-    "description": "Scream at enemies at range, inflicting [25(2),29(4)] Nature damage each round for 4 rounds."
+    "description": "Scream at enemies at range, inflicting [25(2),27(3),29(4),37(8)] Nature damage each round for 4 rounds."
 }

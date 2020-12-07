@@ -1,0 +1,20 @@
+{
+    "name": "Yira'lya",
+    "title": "Kin of the Unnoticed",
+    "covenant": "Ardenweald",
+    "source": "Torghast",
+    "class": "healer",
+    "health": {
+        "records": {
+            "8": 540
+        }
+    },
+    "attack": {
+        "records": {
+            "8": 54
+        }
+    },
+    "abilities": [
+        "Insect swarm"
+    ]
+}

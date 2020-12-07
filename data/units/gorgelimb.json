@@ -1,0 +1,27 @@
+{
+    "name": "Gorgelimb",
+    "title": "Abomination",
+    "type": "Companion",
+    "source": "Torghast",
+    "covenant": "Maldraxxus",
+    "class": "melee",
+    "health": {
+        "base": 400,
+        "increment": 40,
+        "records": {
+            "1": 440,
+            "8": 720
+        }
+    },
+    "attack": {
+        "base": 20,
+        "increment": 2,
+        "records": {
+            "1": 22,
+            "8": 36
+        }
+    },
+    "abilities": [
+        "Flesh Eruption"
+    ]
+}

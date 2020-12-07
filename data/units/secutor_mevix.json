@@ -3,20 +3,25 @@
     "title": "Secutor",
     "type": "companion",
     "covenant": "Maldraxxus",
+    "class": "melee",
     "health": {
-        "base" : 385,
-        "increment": 0,
+        "base": 385,
+        "increment": 35,
         "records": {
             "1": 385,
-            "2": 420
+            "2": 420,
+            "3": 455,
+            "8": 630
         }
     },
     "attack": {
-        "base" : 44,
-        "increment": 0,
+        "base": 44,
+        "increment": 4,
         "records": {
             "1": 44,
-            "2": 48
+            "2": 48,
+            "3": 52,
+            "8": 72
         }
     },
     "abilities": [

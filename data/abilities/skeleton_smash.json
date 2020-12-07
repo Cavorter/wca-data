@@ -1,5 +1,5 @@
 {
     "name": "Skeleton Smash",
-    "description": "Deals [2(1),1(5),1(1)] Physical damage to the closest enemy.",
+    "description": "Deals [2(1),1(5),1(1),2(4),1(4),4(8?),2(8?)] Physical damage to the closest enemy.",
     "cooldown": 2
 }

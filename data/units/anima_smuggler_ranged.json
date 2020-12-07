@@ -1,18 +1,19 @@
 {
     "name": "Anima Smuggler",
     "type": "enemy",
-    "class": "melee",
+    "class": "ranged",
     "health": {
         "records": {
-            "5?": 520,
-            "10": 550
+            "5?": 362,
+            "10": 380
         }
     },
     "attack": {
         "records": {
-            "?": 0,
-            "10": 0
+            "?": 0
         }
     },
-    "abilities": []
+    "abilities": [
+        "Leech Anima"
+    ]
 }

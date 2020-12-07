@@ -1,5 +1,5 @@
 {
     "name": "Bonestorm",
     "cooldown": 5,
-    "description": "Whirls in place, dealing [27(2),31(4)] Shadow damage to all enemies in melee."
+    "description": "Whirls in place, dealing [27(2),29(3),31(4),40(8)] Shadow damage to all enemies in melee."
 }

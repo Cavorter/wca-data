@@ -1,0 +1,21 @@
+{
+    "name": "Niya",
+    "type": "Companion",
+    "source": "campaign",
+    "title": "Grove Tender",
+    "class": "ranged",
+    "health": {
+        "records": {
+            "16": 520
+        }
+    },
+    "attack": {
+        "records": {
+            "16": 104
+        }
+    },
+    "abilities": [
+        "Spiked Burr Trap",
+        "Invigorating Herbs"
+    ]
+}

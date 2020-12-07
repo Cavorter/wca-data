@@ -3,26 +3,31 @@
     "title": "",
     "type": "Companion",
     "covenant": "Maldraxxus",
+    "class": "ranged",
     "health": {
-        "base": 330,
+        "base": 300,
         "increment": 30,
         "records": {
             "1": 330,
             "2": 360,
             "3": 390,
             "5": 450,
-            "6": 480
+            "6": 480,
+            "7": 510,
+            "10": 600
         }
     },
     "attack": {
-        "base": 66,
+        "base": 60,
         "increment": 6,
         "records": {
             "1": 66,
             "2": 72,
             "3": 78,
             "5": 90,
-            "6": 96
+            "6": 96,
+            "7": 102,
+            "10": 120
         }
     },
     "abilities": [

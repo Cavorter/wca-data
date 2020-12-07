@@ -1,0 +1,19 @@
+{
+    "name": "Ardenweald Grovetender",
+    "title": "Grovetender",
+    "type": "troop",
+    "covenant": "Ardenweald",
+    "health": {
+        "records": {
+            "8": 360
+        }
+    },
+    "attack": {
+        "records": {
+            "8": 90
+        }
+    },
+    "abilities": [
+        "Revitalizing Vines"
+    ]
+}

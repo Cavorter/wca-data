@@ -1,0 +1,20 @@
+{
+    "name": "Guardian Kota",
+    "covenant": "Ardenweald",
+    "title": "Protector of Tirna Vaal",
+    "source": "campaign",
+    "class": "melee",
+    "health": {
+        "records": {
+            "1": 440
+        }
+    },
+    "attack": {
+        "records": {
+            "1": 33
+        }
+    },
+    "abilities": [
+        "Flashing Arrows"
+    ]
+}
