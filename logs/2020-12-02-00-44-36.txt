@@ -1,0 +1,63 @@
+Level: 1
+Name: Tutorial: Necromantic Intervention
+
+Positions:
+1: Plague Deviser Marileth 2
+2: Maldraxxus Plaugesinger ?
+3: Maldraxxus Shock Trooper ?
+4: Maldraxxus Shock Trooper ?
+5: Maldraxxus Plaugesinger ?
+6: Bony Skeleton 1
+7: Bony Skeleton 1
+19: Threatening Necromancer 1
+
+Round 1/3:
+(1) shot (10) for 72 damage.
+(1) applied Volatile Solvent to (6)
+(1) applied Volatile Solvent to (7)
+(1) applied Volatile Solvent to (10)
+(1)'s Volatile Solvent dealt 28 Shadow dmaage to (6)
+(1)'s Volatile Solvent dealt 28 Shadow dmaage to (7)
+(1)'s Volatile Solvent dealt 28 Shadow dmaage to (10)
+(1) applied Volatile Solvent to (?)
+(1) cast Ooz's Frictionless Coating on (3) for 28 healing.
+(1) applied Ooz's Frictionless Coating to (3).
+(3) meleed (6) for 57 damage.
+(3) cast Bonestorm at (6) for 48 Shadow damage.
+(3) cast Bonestorm at (7) for 27 Shadow damage.
+(4) meleed (7) for 36 damage.
+(4) cast Bonestorm at (6) for 48 Shadow damage.
+(4) cast Bonestorm at (7) for 27 Shadow damage.
+(2) shot (7) for 84 damage.
+(2) cast Plague Song at (10) for 25 Nature damage.
+(5) shot (7) for 84 damage.
+(5) cast Plague Song at (10) for 25 Nature damage.
+(10) shot (5) for 22 damage.
+(10) cast Plague Blast at (5) for 44 Shadow damage.
+(6) meleed (3) for 22 damage.
+(6) cast Skeleton Smash at (3) for 2 Shadow damage.
+(7) meleed (3) for 22 damage.
+(7) cast Skeleton Smash at (3) for 2 Shadow damage.
+
+Round 2/3:
+(1)'s Volatile Solvent dealt 49 Shadow to (6).
+(1)'s Volatile Solvent dealt 28 Shadow to (7).
+(1)'s Volatile Solvent dealt 28 Shadow to (10).
+(1) killed (7)
+(1) shot (10) for 72 damage.
+(4) meleed (6) for 57 damage.
+(3) meleed (6) for 57 damage.
+(3) killed (6).
+(5) shot (10) for 84 damage.
+(10) shot (5) for 22 damage.
+
+Round 3/3:
+(1)'s Volatile Solvent dealt 28 Shadow to (10).
+(1) removed Ooz's Frictionless Coating from (3)
+(1) shot (10) for 72 damage.
+(4) meleed (10) for 36 damage.
+(3) meleed (10) for 36 damage.
+(5) shot (10) for 84 damage.
+(5) killed (10)
+
+You won!

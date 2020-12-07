@@ -1,8 +1,9 @@
 {
     "name": "Spinal Swarm",
-    "tutorial": true,
+    "tutorial": 2,
     "covenant": "Maldraxxus",
     "minutes": 1,
+    "difficulty": "gold",
     "description": "More skeletons are breaking free in the wake of the accident at the Bone Pits. Break them up.",
     "units": [
         {

@@ -1,0 +1,37 @@
+Level: 1
+Name: Tutorial: Dispose of the Detritus
+
+Positions:
+1: Plague Deviser Marileth 1
+2: Maldraxxus Plaugesinger 1 
+3: Maldraxxus Shock Trooper 1
+4: Maldraxxus Shock Trooper 1
+5: Maldraxxus Plaugesinger 1
+6: Bony Skeleton 1
+7: Bony Skeleton 1
+
+Round 1/1:
+Plague Deviser Marileth (1) shot Bony Skeleton (6) for 66 damage.
+(1) applied Volatile Solvent to (6)
+(1) applied Volatile Solvent to (7)
+(1)'s Volatile Solvent dealt 26 Shadow damage to (6)
+(1)'s Volatile Solvent dealt 26 Shadow damage to (7)
+(1) applied Volatile Solvent to (?)
+(1) cast Ooz's Frictionless Coating on (3) for 26 healing
+(1) applied Ooz's Frictionless Coating on (3)
+(3) meleed (6) for 52 damage.
+(3) cast Bonestorm at (6) for 43 Shadow damage.
+(3) cast Bonestorm at (7) for 24 Shadow damage.
+(4) meleed (7) for 52 damage.
+(4) cast Bonestorm at (6) for 43 Shadow damage.
+(4) cast Bonestorm at (7) for 24 Shadow damage.
+(2) shot (7) for 77 damage.
+(2) cast Plague Song at (6) for 42 Nature damage.
+(2) cast Plague Song at (7) for 23 Nature damage.
+(5) shot (7) for 77 damage.
+(5) cast Plague Song at (6) for 42 Nature damage.
+(5) cast Plague Song at (7) for 23 Nature damage.
+(5) killed (6)
+(5) killed (7)
+
+You won!
